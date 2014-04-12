@@ -1,0 +1,10 @@
+Package: com.frostbitee08.nonewmark
+Name: NoNewMark
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Removes the blue dot indicating an app was recently updated.
+Maintainer: Rocco Del Priore
+Author: Rocco Del Priore
+Section: Tweaks
+Version: 0.0.1-11
+Installed-Size: 88
